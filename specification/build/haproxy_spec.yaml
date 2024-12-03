@@ -9405,6 +9405,12 @@ definitions:
       exp:
         type: integer
         x-nullable: true
+      glitch_cnt:
+        type: integer
+        x-nullable: true
+      glitch_rate:
+        type: integer
+        x-nullable: true
       gpc0:
         type: integer
         x-nullable: true
